@@ -22,3 +22,6 @@ P - If pressed when inside a vehicle, will toggle vehicle's engine state (On/Off
 Place the vehiclecontrol folder into your resources directory. Add start vehiclecontrol to your server.cfg
 
 We hope you enjoy our first release. We hope to bring much more content to the community in time.
+
+
+Join our discord: https://discord.gg/yKpkdMvr5Z
